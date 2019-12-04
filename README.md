@@ -13,25 +13,25 @@ int[] aCount = new int[3];
 
 ### a
 
-`a`       &emsp;&emsp;Array
+`a`       &emsp;Array
 
-`al`     &emsp;&emsp;ArrayList
+`al`     &emsp;ArrayList
 
 <br>
 
 #### b
 
-`b`     &emsp;&emsp;byte
+`b`     &emsp;byte
 
-`boolean`     &emsp;&emsp;boolean
+`boolean`     &emsp;boolean
 
 <br>
 
 #### c
 
-`c`     &emsp;&emsp;char
+`c`     &emsp;char
 
-`cl`     &emsp;&emsp;Class
+`cl`     &emsp;Class
 
 <br>
 
@@ -63,9 +63,9 @@ int[] aCount = new int[3];
 
 #### i
 
-`i`     int
+`i`     &emsp;int
 
-`if`     Interface
+`if`     &emsp;Interface
 
 <br>
 
@@ -79,9 +79,9 @@ int[] aCount = new int[3];
 
 #### l
 
-`l`     long
+`l`     &emsp;long
 
-`ls`     List
+`ls`     &emsp;List
 
 <br>
 
@@ -111,7 +111,7 @@ int[] aCount = new int[3];
 
 #### s
 
-`s`     short
+`s`     &emsp;short
 
 <br>
 
