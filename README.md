@@ -7,37 +7,37 @@ byte bStatus = 1;
 int[] aCount = new int[3];
 ```
 
-
+<br>
 
 ### Standard:
 
 ### a
 
-`a`     Array
+`a`       &emsp;Array
 
-`al`     ArrayList
+`al`     &emsp;ArrayList
 
 <br>
 
 #### b
 
-`b`     byte
+`b`     &emsp;byte
 
-`boolean`     boolean
+`boolean`     &emsp;boolean
 
 <br>
 
 #### c
 
-`c`     char
+`c`     &emsp;char
 
-`cl`     Class
+`cl`     &emsp;Class
 
 <br>
 
 #### d
 
-`d`     double
+`d`     &emsp;double
 
 <br>
 
@@ -47,7 +47,7 @@ int[] aCount = new int[3];
 
 #### f
 
-`f`     float
+`f`     &emsp;float
 
 <br>
 
@@ -57,7 +57,7 @@ int[] aCount = new int[3];
 
 #### h
 
-`hm`     HashMap
+`hm`     &emsp;HashMap
 
 <br>
 
@@ -78,8 +78,6 @@ int[] aCount = new int[3];
 <br>
 
 #### l
-
-<br>
 
 `l`     long
 
