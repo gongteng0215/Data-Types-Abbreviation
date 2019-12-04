@@ -19,7 +19,7 @@ int[] aCount = new int[3];
 
 <br>
 
-#### b
+### b
 
 `b`     &emsp;byte
 
@@ -27,7 +27,7 @@ int[] aCount = new int[3];
 
 <br>
 
-#### c
+### c
 
 `c`     &emsp;char
 
@@ -35,33 +35,33 @@ int[] aCount = new int[3];
 
 <br>
 
-#### d
+### d
 
 `d`     &emsp;double
 
 <br>
 
-#### e
+### e
 
 <br>
 
-#### f
+### f
 
 `f`     &emsp;float
 
 <br>
 
-#### g
+### g
 
 <br>
 
-#### h
+### h
 
 `hm`     &emsp;HashMap
 
 <br>
 
-#### i
+### i
 
 `i`     &emsp;int
 
@@ -69,15 +69,15 @@ int[] aCount = new int[3];
 
 <br>
 
-#### j
+### j
 
 <br>
 
-#### k
+### k
 
 <br>
 
-#### l
+### l
 
 `l`     &emsp;long
 
@@ -85,61 +85,61 @@ int[] aCount = new int[3];
 
 <br>
 
-#### m
+### m
 
 <br>
 
-#### n
+### n
 
 <br>
 
-#### o
+### o
 
 <br>
 
-#### p
+### p
 
 <br>
 
-#### q
+### q
 
 <br>
 
-#### r
+### r
 
 <br>
 
-#### s
+### s
 
 `s`     &emsp;short
 
 <br>
 
-#### t
+### t
 
 <br>
 
-#### u
+### u
 
 <br>
 
-#### v
+### v
 
 <br>
 
-#### w
+### w
 
 <br>
 
-#### x
+### x
 
 <br>
 
-#### y
+### y
 
 <br>
 
-#### z
+### z
 
 <br>
 
