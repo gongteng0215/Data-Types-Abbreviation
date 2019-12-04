@@ -13,25 +13,25 @@ int[] aCount = new int[3];
 
 ### a
 
-`a`       &emsp;Array
+`a`       &emsp;&emsp;Array
 
-`al`     &emsp;ArrayList
+`al`     &emsp;&emsp;ArrayList
 
 <br>
 
 #### b
 
-`b`     &emsp;byte
+`b`     &emsp;&emsp;byte
 
-`boolean`     &emsp;boolean
+`boolean`     &emsp;&emsp;boolean
 
 <br>
 
 #### c
 
-`c`     &emsp;char
+`c`     &emsp;&emsp;char
 
-`cl`     &emsp;Class
+`cl`     &emsp;&emsp;Class
 
 <br>
 
