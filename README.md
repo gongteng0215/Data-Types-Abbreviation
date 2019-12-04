@@ -1,6 +1,6 @@
-#About some date types abbreviation
+# About some date types abbreviation
 
-###Example:   
+### Example:   
 
 ```java
 byte bStatus = 1;
@@ -9,17 +9,15 @@ int[] aCount = new int[3];
 
 
 
-###Standard:
+### Standard:
 
-
-
-#### a
+### a
 
 `a`     Array
 
 `al`     ArrayList
 
-
+<br>
 
 #### b
 
@@ -27,7 +25,7 @@ int[] aCount = new int[3];
 
 `boolean`     boolean
 
-
+<br>
 
 #### c
 
@@ -35,29 +33,33 @@ int[] aCount = new int[3];
 
 `cl`     Class
 
-
+<br>
 
 #### d
 
 `d`     double
 
-
+<br>
 
 #### e
+
+<br>
 
 #### f
 
 `f`     float
 
-
+<br>
 
 #### g
+
+<br>
 
 #### h
 
 `hm`     HashMap
 
-
+<br>
 
 #### i
 
@@ -65,51 +67,83 @@ int[] aCount = new int[3];
 
 `if`     Interface
 
-
+<br>
 
 #### j
 
+<br>
+
 #### k
 
+<br>
+
 #### l
+
+<br>
 
 `l`     long
 
 `ls`     List
 
-
+<br>
 
 #### m
 
+<br>
+
 #### n
+
+<br>
 
 #### o
 
+<br>
+
 #### p
+
+<br>
 
 #### q
 
+<br>
+
 #### r
+
+<br>
 
 #### s
 
 `s`     short
 
-
+<br>
 
 #### t
 
+<br>
+
 #### u
+
+<br>
 
 #### v
 
+<br>
+
 #### w
+
+<br>
 
 #### x
 
+<br>
+
 #### y
 
+<br>
+
 #### z
+
+<br>
 
 
 
