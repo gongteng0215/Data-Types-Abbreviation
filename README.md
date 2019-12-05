@@ -1,4 +1,4 @@
-# About some date types abbreviation
+# About some data types of abbreviation
 
 ### Example:   
 
@@ -23,7 +23,7 @@ int[] aCount = new int[3];
 
 `b`     &emsp;byte
 
-`boolean`     &emsp;boolean
+`bool`     &emsp;boolean
 
 <br>
 
@@ -66,6 +66,8 @@ int[] aCount = new int[3];
 `i`     &emsp;int
 
 `if`     &emsp;Interface
+
+`impl`     &emsp;implement
 
 <br>
 
