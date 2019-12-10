@@ -115,6 +115,8 @@ int[] aCount = new int[3];
 
 `s`     &emsp;short
 
+`str`     &emsp;String
+
 <br>
 
 ### t
